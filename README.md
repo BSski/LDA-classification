@@ -7,4 +7,4 @@
 
 <hr>
 
-Classification accuracy achieved: 95%.
+<p align="center">Classification accuracy achieved: 95%.</p>
