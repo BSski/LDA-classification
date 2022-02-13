@@ -6,3 +6,5 @@
 <i><p align="center">This code was written in 2020. I have learned a lot since then and I am aware of the poor quality of the code.</p></i>
 
 <hr>
+
+Classification accuracy achieved: 95%.
